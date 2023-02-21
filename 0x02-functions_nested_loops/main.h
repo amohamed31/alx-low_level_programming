@@ -46,3 +46,7 @@ void times_table(void);
  * add - fucntion that adds two ints and returns the result
  */
 int add(int,int);
+/**
+ * print_to_98 - function that prints given int to 98 both forward or backwards
+ */
+void print_to_98(int n);
