@@ -30,3 +30,7 @@ int print_sign(int n);
  * _abs - function that checks if a number is postivie or negative, then prints the postive number, or multiplies the negative number by -1 and then prints it
  */
 int _abs(int);
+/**
+ * print_last_digit - function that prints the last digit of an int
+ */
+int print_last_digit(int);
