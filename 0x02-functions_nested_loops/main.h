@@ -18,3 +18,7 @@ void print_alphabet_x10(void);
  * _islower - function that checks if c is lower, returns 1 if lowercase, 0 otherwise
  */
 int _islower(int c);
+/**
+ * _isalpha - function that checks if c is an alphabetic character, returns 1 if true, 0 if false
+ */
+int _isalpha(int c);
