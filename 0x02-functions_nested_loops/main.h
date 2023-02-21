@@ -34,3 +34,7 @@ int _abs(int);
  * print_last_digit - function that prints the last digit of an int
  */
 int print_last_digit(int);
+/**
+ * jack_bauer(void) - function that prints every second inside of 24 hours
+ */
+void jack_bauer(void);
