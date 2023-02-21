@@ -26,3 +26,7 @@ int _isalpha(int c);
  * print_sign - function that checks if a number is postive, zero, or negative; returns 1 and prints + if positive, returns 0 and prints 0 if zero, or returns -1 and prints - if negative
  */
 int print_sign(int n);
+/**
+ * _abs - function that checks if a number is postivie or negative, then prints the postive number, or multiplies the negative number by -1 and then prints it
+ */
+int _abs(int);
