@@ -14,3 +14,7 @@ void print_alphabet(void);
  * print_alphabet_x10 - a function that prints the alphabet ten times on a different line each time
  */
 void print_alphabet_x10(void);
+/**
+ * _islower - function that checks if c is lower, returns 1 if lowercase, 0 otherwise
+ */
+int _islower(int c);
