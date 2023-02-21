@@ -22,3 +22,7 @@ int _islower(int c);
  * _isalpha - function that checks if c is an alphabetic character, returns 1 if true, 0 if false
  */
 int _isalpha(int c);
+/**
+ * print_sign - function that checks if a number is postive, zero, or negative; returns 1 and prints + if positive, returns 0 and prints 0 if zero, or returns -1 and prints - if negative
+ */
+int print_sign(int n);
