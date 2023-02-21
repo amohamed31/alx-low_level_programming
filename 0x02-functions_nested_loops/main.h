@@ -38,3 +38,7 @@ int print_last_digit(int);
  * jack_bauer(void) - function that prints every second inside of 24 hours
  */
 void jack_bauer(void);
+/**
+ * time_table - function that prints the 9 times table
+ */
+void times_table(void);
